@@ -34,7 +34,8 @@ The game features:
 ## 🔗 Links
 - 🖥️ [GitHub Repository](https://github.com/CrazyEnvelope/Aurora-Assault)  
 - 🎮 [Play on itch.io](https://crazyenvelope.itch.io/auroraescape)  
-
+- ▶️ [YouTube](https://www.youtube.com/watch?v=vwoySHiuX7g&list=PLuX9yjwQ_9WUn2OOUkYlk9fNwUpz_JvtP&index=4)
+  
 ---
 
 ## 🛠️ Built With
