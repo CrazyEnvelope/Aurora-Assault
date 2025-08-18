@@ -1,21 +1,49 @@
-🎮Aurora Assault🎮
+# 🎮 Aurora Assault 🎮
 
-iul. 2024 - iul. 2024
+**📅 July 2024**  
 
--ABOUT THE GAME-
+Welcome to **Aurora Assault**, a Unity-based space shooter where you defend planet **Aurora** from incoming enemy waves.  
+Train, dodge, and blast your way to victory — but beware: colliding with enemies or the terrain resets the training center!  
 
-On a planet called Aurora, you need to train to protect it from incoming enemies. You need to shoot the ships in front of you to get more points and also avoid colliding with them or with the terrain, or the training center will restart. This game was made in Unity. It consists of a single level in which you have to shoot and avoid spaceships while crossing the map. The map is a simple modeled terrain to which various textures have been applied. Sometimes you have to hit the same enemy several times because it has a certain number of lives.
+---
 
-Enemies are placed in waves and each wave gives a certain score for shooting the enemy. Both the enemy and the player have a route set using the timeline. Created various scripts in C# that provided functionality to the game.
+## 🌌 About the Game
+On planet **Aurora**, you must:
+- 🚀 Fly across the terrain while avoiding collisions.  
+- 🔫 Shoot down enemy spaceships to earn points.  
+- 💥 Face enemies with multiple lives requiring multiple hits.  
+- 🌊 Survive **enemy waves**, each offering unique challenges and score rewards.  
 
--CONTROLS-
+The game features:
+- 🗺️ A custom terrain with applied textures.  
+- 🎥 Enemy & player routes designed with **Unity Timeline**.  
+- ⚡ C# scripts powering mechanics and behaviors.  
+- 🎇 Particle systems, animations, and effects to enhance gameplay.  
 
-W,A,S,D - fly the ship.
-Long press left button mouse - to shoot lasers. 
-Escape - pause the game.
+---
 
--LINKS-
-Github: https://github.com/CrazyEnvelope/Aurora-Assault
-itch.io: https://crazyenvelope.itch.io/auroraescape
+## 🎮 Controls
+| Key / Action | Function |
+|--------------|----------|
+| **W, A, S, D** | Fly the ship |
+| **Left Mouse Button (hold)** | Shoot lasers |
+| **Esc** | Pause the game |
 
-Aptitudini: Animations · C# · Game Design · Casual Games · Game Mechanics · Graphical User Interface (GUI) · UI · Video Game Design · Animație · Level Design · Scripting · Manual Testing · Unity · Animation · Particle Systems
+---
+
+## 🔗 Links
+- 🖥️ [GitHub Repository](https://github.com/CrazyEnvelope/Aurora-Assault)  
+- 🎮 [Play on itch.io](https://crazyenvelope.itch.io/auroraescape)  
+
+---
+
+## 🛠️ Built With
+- **Unity** (C# scripting, Timeline, Level Design)  
+- **Game Design & Mechanics**  
+- **UI / GUI Design**  
+- **Animations & Particle Systems**  
+- **Manual Testing**  
+
+---
+
+✨ *Made with passion for space shooters and Unity development.* 🚀  
